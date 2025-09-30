@@ -26,19 +26,19 @@ The system uses two complementary AI models:
    - Can answer open-ended questions about clothing items
 
 ## Architecture
-Text Query: "casual brunch outfit"
+- Text Query: "casual brunch outfit"
 ↓
-CLIP Text Encoder → Style Vector
+- CLIP Text Encoder → Style Vector
 ↓
-Similarity Search → Find matching items
+- Similarity Search → Find matching items
 ↓
-BLIP-2 Analysis → Categorize & analyze items
+- BLIP-2 Analysis → Categorize & analyze items
 ↓
-Outfit Combiner → Create coordinated outfits
+- Outfit Combiner → Create coordinated outfits
 ↓
-Compatibility Scoring → Rank by fit
+- Compatibility Scoring → Rank by fit
 ↓
-Display Results → Complete outfit recommendations
+- Display Results → Complete outfit recommendations
 
 ## Installation
 ### Prerequisites

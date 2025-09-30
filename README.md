@@ -147,6 +147,6 @@ Recommended: 16GB RAM, NVIDIA GPU with 8GB+ VRAM
 Optimal: 32GB RAM, NVIDIA GPU with 12GB+ VRAM
 
 ## Acknowledgments
-OpenAI for CLIP
-Salesforce for BLIP-2
-Hugging Face for model hosting
+- OpenAI for CLIP
+- Salesforce for BLIP-2
+- Hugging Face for model hosting
